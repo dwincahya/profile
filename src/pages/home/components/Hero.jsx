@@ -15,13 +15,13 @@ const Hero = () => {
                     Dwi Nur Cahya
                 </h1>
                 <p className="text-xl md:text-2xl lg:text-3xl font-semibold text-slate-800 text-white">
-                    INFORMATICS ENGINEERING
+                    TEKNIK INFORMATIKA
                 </p>
                 <p className="text-md md:text-lg lg:text-xl text-slate-300 px-0 md:px-20">
                     Hai, Saya adalah Dwi Nur Cahya, Biasa dipanggil Cahya. Saya memiliki pengalaman dan pengetahuan di bidang Sistem Informasi Jaringan dan Aplikasi.
                 </p>
                 <button className="text-white border-[2px] border-gray-300 font-medium py-2 px-8 rounded-lg w-fit flex gap-2 items-center justify-center hover:scale-110 transition-all duration-300 bg-gradient-to-br from-gray-900 via-slate-700 to-gray-500 hover:from-gray-500 hover:via-slate-700 hover:to-gray500 ">
-                    Let's Talk
+                    Hubungi Saya
                 </button>
             </div>
             <div className="flex gap-3 mt-5">
