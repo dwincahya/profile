@@ -16,9 +16,9 @@ export default function Navbar() {
                 />
 
                 <ul className="hidden md:flex gap-x-8 text-white font-bold text-2xl">
-                    <li><a href="">SKILLS</a>
+                    <li><a href="">KEAHLIAN</a>
                     </li>
-                    <li><a href="">PROJECT</a>
+                    <li><a href="">PROYEK</a>
                     </li>
                 </ul>
             </div>
