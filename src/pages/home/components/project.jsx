@@ -21,7 +21,7 @@ const Projects = () => {
     return (
         <section className="bg-gray-900 py-16 px-8 md:py-24 md:px-16">
             <h2 className="text-white text-3xl md:text-4xl lg:text-5xl font-bold mb-8 text-center font-bold">
-                My Projects
+                PROYEK SAYA
             </h2>
             <div className="text-white grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8 px-0 md:px-48">
                 {projects.map((project) => (
