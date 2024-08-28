@@ -21,7 +21,7 @@ const Experiences = () => {
     return (
         <section className="bg-gray-900 py-16 px-8 md:py-24 md:px-52">
             <h2 className="text-white text-3xl md:text-4xl lg:text-5xl font-bold mb-8 text-center text-slate-800">
-                Experiences
+                PENGALAMAN
             </h2>
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
